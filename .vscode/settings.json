@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 25,
+    "editor.experimentalWhitespaceRendering": "font",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
